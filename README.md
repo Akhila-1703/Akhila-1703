@@ -156,9 +156,9 @@ Designed to unify patient records, doctor scheduling, and administrative operati
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Akhila-1703&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8A2BE2&icon_color=4B0082" alt="GitHub Stats" width="80%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Akhila-1703&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8A2BE2&icon_color=4B0082" alt="GitHub Stats" width="50%" />
   <br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Akhila-1703&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=8A2BE2" alt="Top Languages" width="80%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Akhila-1703&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=8A2BE2" alt="Top Languages" width="50%" />
 </div>
 
 <br>
