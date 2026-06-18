@@ -56,10 +56,7 @@ I am currently seeking Full-Stack and Backend Engineering roles where I can tack
 
 ### 🚀 Featured Projects
 
-<details>
-<summary><b>🍽️ MealOra — Logistics & Food Delivery Platform</b></summary>
-<br>
-
+#### 🍽️ MealOra — Logistics & Food Delivery Platform
 **MealOra** was built to solve the actual logistics of a daily Dabba (Tiffin) service.
 
 | Attribute | Details |
@@ -73,12 +70,10 @@ I am currently seeking Full-Stack and Backend Engineering roles where I can tack
 2. **Interactive Skip Calendar:** Integrated `@fullcalendar/react`. Users can select dates they are out of town, and the backend explicitly halts billing for those specific days.
 3. **Strict Automation:** Designed a backend cron algorithm enforcing an 11:00 AM IST cutoff for skipping meals to prevent physical kitchen inventory waste.
 4. **Kitchen Analytics:** Admin dashboards powered by `Recharts` to analyze Serving vs. Skipped ratios for daily inventory prediction.
-</details>
 
-<details>
-<summary><b>✍️ Blog App — Role-Based Content Publishing Platform</b></summary>
 <br>
 
+#### ✍️ Blog App — Role-Based Content Publishing Platform
 A modern publishing platform built to demonstrate advanced Web Security practices and multi-tiered user access.
 
 | Attribute | Details |
@@ -91,12 +86,10 @@ A modern publishing platform built to demonstrate advanced Web Security practice
 1. **Soft-Deletion Architecture:** Articles are never hard-deleted from the database. The backend uses an `isArticleActive` flag to maintain historical data integrity and auditing.
 2. **XSS Mitigation:** Implemented stateless authentication using JWTs stored *exclusively* in HTTP-Only cookies, protecting users from token theft.
 3. **Role-Based Access Control (RBAC):** Distinct routing and authorization middleware for Readers, Creators, and Administrators.
-</details>
 
-<details>
-<summary><b>🏥 Peoplecare Hospital — Centralized Healthcare Workflow</b></summary>
 <br>
 
+#### 🏥 Peoplecare Hospital — Centralized Healthcare Workflow
 Designed to unify patient records, doctor scheduling, and administrative operations into a secure digital environment.
 
 | Attribute | Details |
@@ -108,7 +101,6 @@ Designed to unify patient records, doctor scheduling, and administrative operati
 **Key Features:**
 1. **Dynamic Scheduling:** A complex booking workflow that handles doctor availability checking, specialization filtering, and state-tracking.
 2. **Sensitive Data CRUD:** Designed a highly secure backend architecture for handling sensitive medical histories and prescriptions.
-</details>
 
 <br>
 
